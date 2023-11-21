@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{9704DC2A-0DE8-4837-BD74-E20BD32D9D1C}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Api-AzureDatabase/Controllers/CustomersController.cs">
+    <Files>
+      <File FileName="Api-AzureDatabase/Models/Customer.cs" Line="1" Column="1" />
+      <File FileName="Api-AzureDatabase/Models/AzureDatabaseContext.cs" Line="1" Column="1" />
+      <File FileName="Api-AzureDatabase/Controllers/CustomersController.cs" Line="71" Column="1" />
+      <File FileName="Api-AzureDatabase/Program.cs" Line="10" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Api-AzureDatabase" expanded="True">
+            <Node name="Api-AzureDatabase" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Api-AzureDatabase PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

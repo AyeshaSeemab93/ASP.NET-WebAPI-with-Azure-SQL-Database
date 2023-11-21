@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ccHAZX3dkqD5yONgHtPRtttrXhwFyv1NZeZVuon0AHw=",
+  "Source": "Api-AzureDatabase",
+  "BasePath": "_content/Api-AzureDatabase",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
