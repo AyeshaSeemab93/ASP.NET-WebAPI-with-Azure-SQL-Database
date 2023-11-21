@@ -1,4 +1,3 @@
-# ASP.NET-WebAPI-with-Azure-SQL-Database
 # ASP.NET Web API with Azure SQL Database
 
 This repository contains a sample ASP.NET Web API project that connects to an Azure SQL Database to perform CRUD operations on a "Customers" table. The API allows you to retrieve a list of customers, get a customer by ID, create a new customer, and delete a customer.
